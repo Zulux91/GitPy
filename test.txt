@@ -1,1 +1,1 @@
-b'content 1\n' content 2
+content 1
