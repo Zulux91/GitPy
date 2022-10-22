@@ -1,1 +1,1 @@
-ContentFile(path="test.txt").append(content 2)
+ContentFile(path="test.txt").append(content 4)
